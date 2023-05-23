@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    padding-bottom: 50px;
 }
 
 .half-width {
@@ -22,7 +23,7 @@ section {
 
 .half-width img {
     width: 100%;
-    padding-top: 20px;
+    padding-top: 10px;
 
 }
 
